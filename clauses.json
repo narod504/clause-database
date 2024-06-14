@@ -2,7 +2,7 @@
   "categories": [
     "General", "Confidentiality", "Termination", "Liability",
     "Arbitration", "Non-Compete", "Governing Law", "Force Majeure", "Severability",
-    "Intellectual Property", "Privacy", "Employment"
+    "Intellectual Property", "Privacy", "Employment", "Non-Use"
   ],
   "clauses": [
     {"category": "General", "text": "This is a general clause."},
