@@ -32,7 +32,8 @@
     "Purpose Clause",
     "Recitals",
     "Signature",
-    "Preamble"
+    "Preamble",
+    "This is a test clause category"
   ],
   "clauses": [
     {"category": "Arbitration Clause", "text": "Any disputes arising out of this agreement shall be resolved through binding arbitration."},
@@ -234,6 +235,7 @@
 {"category": "Preamble", "text": "This Agreement, made as of [Date], is by and between [Party A], having its principal place of business at [Address], and [Party B], having its principal place of business at [Address]."},
 {"category": "Preamble", "text": "This Agreement is dated as of [Date], and is by and between [Party A], with its principal place of business at [Address], and [Party B], with its principal place of business at [Address]."},
 {"category": "Preamble", "text": "This Agreement is entered into by and between [Party A], a [State] corporation with its principal office at [Address], and [Party B], a [State] corporation with its principal office at [Address], as of [Date]."},
-{"category": "Preamble", "text": "This Agreement is made as of [Date], by and between [Party A], whose principal place of business is at [Address], and [Party B], whose principal place of business is at [Address]."}
-]
+{"category": "Preamble", "text": "This Agreement is made as of [Date], by and between [Party A], whose principal place of business is at [Address], and [Party B], whose principal place of business is at [Address]."},
+{"category": "This is a test clause category", "text": "This is a test clause to make sure that the application is recieving updates."}
+  ]
 }
