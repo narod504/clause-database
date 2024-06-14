@@ -1,17 +1,24 @@
 {
   "categories": [
-    "Arbitration Clause",
-    "Confidentiality Clause"
-    
+    "General", "Confidentiality", "Termination", "Liability",
+    "Arbitration", "Non-Compete", "Governing Law", "Force Majeure", "Severability",
+    "Intellectual Property", "Privacy", "Employment"
   ],
   "clauses": [
-    {"category": "Arbitration Clause", "text": "Any disputes arising out of this agreement shall be resolved through binding arbitration."},
-    {"category": "Arbitration Clause", "text": "The arbitration shall be conducted in accordance with the rules of the American Arbitration Association."},
-    {"category": "Arbitration Clause", "text": "Each party agrees to bear its own costs and expenses for the arbitration."},
-    {"category": "Arbitration Clause", "text": "The arbitrator’s decision shall be final and binding on both parties."},
-
-    {"category": "Confidentiality Clause", "text": "Both parties agree to keep all proprietary information confidential."},
-    {"category": "Confidentiality Clause", "text": "Confidential information shall not be disclosed to any third party without prior written consent."},
-    {"category": "Confidentiality Clause", "text": "This obligation of confidentiality shall survive the termination of this agreement."},
-    {"category": "Confidentiality Clause", "text": "Any breach of confidentiality shall entitle the non-breaching party to seek injunctive relief."},
-    {"category": "Confidentiality Clause", "text": "Confidential information includes, but is not limited to, business plans, financial data, and trade secrets."},
+    {"category": "General", "text": "This is a general clause."},
+    {"category": "General", "text": "Another general clause example."},
+    {"category": "Confidentiality", "text": "This clause is about confidentiality."},
+    {"category": "Confidentiality", "text": "Confidentiality clause example 2."},
+    {"category": "Termination", "text": "This clause is about termination."},
+    {"category": "Liability", "text": "This clause is about liability."},
+    {"category": "Arbitration", "text": "This clause is about arbitration."},
+    {"category": "Non-Compete", "text": "This clause is about non-compete agreements."},
+    {"category": "Governing Law", "text": "This clause specifies the governing law."},
+    {"category": "Force Majeure", "text": "This clause covers force majeure events."},
+    {"category": "Severability", "text": "This clause deals with severability of provisions."},
+    {"category": "Intellectual Property", "text": "This clause covers intellectual property rights."},
+    {"category": "Privacy", "text": "This clause addresses privacy concerns."},
+    {"category": "Employment", "text": "This clause pertains to employment conditions and obligations."},
+    {"category": "Employment", "text": "Another employment clause example."}
+  ]
+}
